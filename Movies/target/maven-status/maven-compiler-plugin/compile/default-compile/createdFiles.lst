@@ -1,0 +1,5 @@
+com/movierentalservice/entity/Rental.class
+com/movierentalservice/entity/Rental$RentalStatus.class
+com/movierentalservice/entity/Rating.class
+com/movierentalservice/entity/User.class
+com/movierentalservice/repository/UserRepository.class

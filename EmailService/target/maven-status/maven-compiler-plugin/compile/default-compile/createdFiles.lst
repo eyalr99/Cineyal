@@ -1,0 +1,7 @@
+com/emailservice/jms/EmailMessage$EmailType.class
+com/emailservice/jms/EmailMessage.class
+com/emailservice/EmailServiceApplication.class
+com/emailservice/jms/EmailConsumer.class
+com/emailservice/config/JmsConfig.class
+com/emailservice/service/impl/EmailServiceImpl.class
+com/emailservice/service/EmailService.class
